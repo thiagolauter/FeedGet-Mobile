@@ -5,7 +5,7 @@
 ## Sobre
 Projeto desenvolvido na Trilha Impulse do NLW Return organizada pela [Rocketseat](https://rocketseat.com.br/).
 
-Esse projeto é um widget que pode ser usado em aplicações web para receber feedback de usuários.
+Esse projeto é um widget que pode ser usado em aplicações React Native para receber feedback de usuários.
 
 
 ### Acesse os layouts do projeto:
